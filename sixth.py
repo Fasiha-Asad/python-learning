@@ -4,6 +4,8 @@
 #2)Text Data(str)
 #3)Boolean
 #4)Swquenced data(list,tuple)
+#5)Mapped data
+#Every thing in python is an object
 a=13444
 print(a) # firstly store in a then print
 
